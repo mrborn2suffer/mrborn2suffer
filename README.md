@@ -76,10 +76,3 @@
   <b>Let's connect, code, and create together! 🚀</b>
 </div>
 
-<details>
-  <summary>🖤 Dark Mode Preview</summary>
-  
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=100&section=header&text=mrborn2suffer&fontSize=48&fontColor=fff200&fontAlignY=60"/>
-  </p>
-</details>
