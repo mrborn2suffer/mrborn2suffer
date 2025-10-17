@@ -1,3 +1,5 @@
+![](https://github.com/mrborn2suffer/https://tenor.com/en-GB/view/gato-teclado-trabalhando-escrevendo-pra-caramba-gato-fofo-gatinho-gif-10688971139362782124)
+
 <h1 align="center" style="font-weight:900; font-size:3rem; background:#fff200; color:#1a1a1a; border:4px solid #1a1a1a; border-radius:12px; padding:0.5em 0;">
   👾 mrborn2suffer 👾
 </h1>
@@ -76,3 +78,7 @@
   <b>Let's connect, code, and create together! 🚀</b>
 </div>
 
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=mrborn2suffer&theme=highcontrast&show_icons=true&count_private=true&title_color=#D3A121&text_color=#0B0B0B&)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
