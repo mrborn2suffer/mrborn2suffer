@@ -1,4 +1,3 @@
-![](https://github.com/mrborn2suffer/https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif)
 
 <h1 align="center" style="font-weight:900; font-size:3rem; background:#fff200; color:#1a1a1a; border:4px solid #1a1a1a; border-radius:12px; padding:0.5em 0;">
   👾 mrborn2suffer 👾
@@ -22,6 +21,8 @@
     <b>I code for fun, love to learn, and am always open to collaborations and new ideas!</b>
   </p>
 </div>
+
+![](https://github.com/mrborn2suffer/https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif)
 
 ---
 
