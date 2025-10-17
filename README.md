@@ -1,4 +1,4 @@
-![](https://github.com/mrborn2suffer/https://tenor.com/en-GB/view/gato-teclado-trabalhando-escrevendo-pra-caramba-gato-fofo-gatinho-gif-10688971139362782124)
+![](https://github.com/mrborn2suffer/https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif)
 
 <h1 align="center" style="font-weight:900; font-size:3rem; background:#fff200; color:#1a1a1a; border:4px solid #1a1a1a; border-radius:12px; padding:0.5em 0;">
   👾 mrborn2suffer 👾
