@@ -1,12 +1,12 @@
-
+![giphy](https://github.com/user-attachments/assets/e4264eaa-5562-4480-84d2-e600642370c6)
 <h1 align="center" style="font-weight:900; font-size:3rem; background:#fff200; color:#1a1a1a; border:4px solid #1a1a1a; border-radius:12px; padding:0.5em 0;">
   👾 mrborn2suffer 👾
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badg![Uploading giphy.gif…]()
-e/Java-ED1C24?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+ 
+  <img src="htt![giphy](https://github.com/user-attachments/assets/7147d10d-c670-4e29-97b7-a062d7f74980)
+ps://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
