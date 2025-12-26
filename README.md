@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\Victus\OneDrive\Pictures\Saved Pictures\working hamster.jpg"" alt="top gif" />
+  <img src="./working%20hamster.jpg" alt="top gif" width="150"/>
 </p>
 
 # mrborn2suffer
