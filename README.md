@@ -25,7 +25,6 @@ Focused on backend systems, APIs, and practical DevOps.
 - Maven / Gradle  
 - Git / CI
 
-(Kept as plain text to match a minimal, monochrome theme.)
 
 ---
 
